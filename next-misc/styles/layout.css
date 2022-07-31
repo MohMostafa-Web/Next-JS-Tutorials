@@ -1,0 +1,20 @@
+.layout-header,
+.layout-footer {
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+.layout-header {
+  background-color: #009688;
+}
+.layout-footer {
+  background-color: #323232;
+}
+.content {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
